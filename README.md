@@ -133,7 +133,7 @@ The Canny Edge Detection algorithm was successfully implemented using OpenCV. Th
 
 ## Author
 
-**Sahithya Popuri**
+**Lohini Shabarinath**
 
 Artificial Intelligence & Machine Learning
 Saveetha Engineering College
